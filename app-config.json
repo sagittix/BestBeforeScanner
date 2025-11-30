@@ -5,11 +5,11 @@
   "interstitialFrequency": 5,
   "bannerAdUnitId": {
     "ios": "ca-app-pub-YOUR-ID/banner-ios",
-    "android": "ca-app-pub-YOUR-ID/banner-android"
+    "android": "ca-app-pub-5832824423097425/3635255572"
   },
   "interstitialAdUnitId": {
     "ios": "ca-app-pub-YOUR-ID/interstitial-ios",
-    "android": "ca-app-pub-YOUR-ID/interstitial-android"
+    "android": "ca-app-pub-5832824423097425/9278464494"
   },
   "premiumPrice": "2.99",
   "showPremiumOffer": false,
