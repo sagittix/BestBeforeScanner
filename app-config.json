@@ -1,0 +1,18 @@
+{
+  "adsEnabled": false,
+  "showBannerAds": false,
+  "showInterstitialAds": false,
+  "interstitialFrequency": 5,
+  "bannerAdUnitId": {
+    "ios": "ca-app-pub-YOUR-ID/banner-ios",
+    "android": "ca-app-pub-YOUR-ID/banner-android"
+  },
+  "interstitialAdUnitId": {
+    "ios": "ca-app-pub-YOUR-ID/interstitial-ios",
+    "android": "ca-app-pub-YOUR-ID/interstitial-android"
+  },
+  "premiumPrice": "2.99",
+  "showPremiumOffer": false,
+  "minAppVersion": "1.0.0",
+  "forceUpdate": false
+}
