@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>ExpiryScan – Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 24px 16px 40px;
+      line-height: 1.6;
+      color: #222;
+      background: #fafafa;
+    }
+    h1, h2, h3 {
+      color: #111;
+    }
+    h1 {
+      margin-bottom: 0.5rem;
+    }
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 6px 22px rgba(15, 23, 42, 0.08);
+      border: 1px solid #e5e7eb;
+    }
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .muted {
+      color: #6b7280;
+      font-size: 0.9rem;
+    }
+    ul {
+      margin-left: 1.2rem;
+    }
+    strong {
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Privacy Policy</h1>
+    <p class="muted">Last updated: <strong>December 1, 2025</strong></p>
+
+    <p>
+      This Privacy Policy describes how <strong>ExpiryScan</strong> (“the App”) handles information
+      when you use the application on your device.
+    </p>
+
+    <h2>1. Overview</h2>
+    <p>
+      ExpiryScan is a utility app that helps you scan and track expiry dates of products using
+      your device’s camera. We designed the app so that it works <strong>locally on your device</strong>
+      and does <strong>not require you to create an account</strong> or provide personal details.
+    </p>
+
+    <h2>2. Information We Do Not Collect</h2>
+    <p>
+      ExpiryScan does <strong>not</strong>:
+    </p>
+    <ul>
+      <li>Collect your name, email address, phone number, or other contact details.</li>
+      <li>Collect your location (GPS or background location).</li>
+      <li>Collect payment information.</li>
+      <li>Track you across other apps or websites.</li>
+      <li>Sell or share your data with third parties for advertising purposes.</li>
+    </ul>
+
+    <h2>3. Camera and Image Processing</h2>
+    <p>
+      The App uses your device’s camera to capture images of product labels so that expiry dates
+      can be detected.
+    </p>
+    <ul>
+      <li>Captured images are processed <strong>on your device</strong> to extract text (expiry dates).</li>
+      <li>Images and recognized text are <strong>not uploaded</strong> to our servers.</li>
+      <li>We do not run our own backend server for this functionality.</li>
+    </ul>
+    <p>
+      In some cases, third-party libraries (for example, optical character recognition / OCR libraries)
+      may be used solely to perform text recognition on the device. These libraries do not receive
+      personally identifiable information from us.
+    </p>
+
+    <h2>4. Local Data and Reminders</h2>
+    <p>
+      When you save items and expiry dates, this information is stored locally on your device
+      (for example, in local storage or a local database).
+    </p>
+    <ul>
+      <li>Expiry items, dates, and related notes are stored only on your device.</li>
+      <li>Notification reminders (for upcoming expiry dates) are scheduled from your device.</li>
+      <li>We do not have access to this information and it is not automatically backed up to our servers.</li>
+    </ul>
+
+    <h2>5. Analytics and Advertising</h2>
+    <p>
+      The current version of ExpiryScan does <strong>not</strong>:
+    </p>
+    <ul>
+      <li>show personalized advertising,</li>
+      <li>use third-party analytics SDKs to track behavior, or</li>
+      <li>share data with advertising networks.</li>
+    </ul>
+    <p>
+      If this ever changes in a future version, this Privacy Policy and the Data Safety section
+      on Google Play will be updated before such changes go live.
+    </p>
+
+    <h2>6. Children’s Privacy</h2>
+    <p>
+      ExpiryScan is designed for general audiences and is <strong>not directed at children under 13</strong>.
+      We do not knowingly collect personal information from children. If you believe that a child has
+      provided us with personal information, please contact us and we will take steps to remove such
+      information if it is somehow stored.
+    </p>
+
+    <h2>7. Security</h2>
+    <p>
+      Because ExpiryScan primarily stores data locally on your device and does not transmit personal data
+      to our own servers, the main security protections are provided by your device’s operating system
+      (screen lock, device encryption, etc.). We recommend keeping your device’s software up to date and
+      using a secure screen lock.
+    </p>
+
+    <h2>8. Changes to This Privacy Policy</h2>
+    <p>
+      We may update this Privacy Policy from time to time to reflect improvements in the App or changes
+      in legal requirements. If we make significant changes, we will update the “Last updated” date at
+      the top of this page. The latest version will always be available at this URL.
+    </p>
+
+    <h2>9. Contact</h2>
+    <p>
+      If you have any questions or concerns about this Privacy Policy or how ExpiryScan handles data,
+      you can contact us at:
+    </p>
+    <p>
+      <strong>Email:</strong> sumitkb369@gmail.com
+    </p>
+
+    <p class="muted">
+      This Privacy Policy is provided for information purposes and does not constitute legal advice.
+    </p>
+  </div>
+</body>
+</html>
